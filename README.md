@@ -1,6 +1,6 @@
 # Miguel Carlos Lucas Gonçalves
 
-👋 Hello, I'm Miguel, a passionate software engineer with a focus on game development and 7+ years of experience in web technologies.
+👋 Hello, I'm Miguel, a passionate software engineer with a focus on game development and 8+ years of experience in web technologies.
 
 ## Skills
 
